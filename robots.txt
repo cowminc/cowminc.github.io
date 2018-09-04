@@ -1,0 +1,5 @@
+Sitemap: http://www.cowminc.com/sitemap.xml
+Sitemap: http://www.cowminc.com/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
